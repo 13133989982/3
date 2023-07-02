@@ -9,9 +9,8 @@ A post-transcriptional alteration, N6,2′-O-dimethyladenosine (m6Am) has recent
 
   Dependencies
 - Python 3.8
-
 - Tensorflow 2.3.0
 
- Prediction
+  Prediction
 Run the model to obtain the predicted results
 - predict.py
