@@ -12,5 +12,10 @@ A post-transcriptional alteration, N6,2′-O-dimethyladenosine (m6Am) has recent
 - Tensorflow 2.3.0
 
   Prediction
+"A_ model" : represent the model trained by DCNN and BiLSTM
+"C_ model": represent the model trained by MSRN and BiGRU
+"D_ model": represent the model trained by DenseNet and Attention
+"model2": a ten-fold cross-validation training model representing the second layer of stacking
+
 Run the model to obtain the predicted results
 - predict.py
